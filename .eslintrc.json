@@ -26,6 +26,7 @@
       "@typescript-eslint"
   ],
   "rules": {
+    "@typescript-eslint/no-empty-function": "off",
     "@typescript-eslint/ban-types": "off",
     "react/jsx-props-no-spreading": "off",
     "react/prop-types": "off",
